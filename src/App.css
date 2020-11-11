@@ -1,0 +1,22 @@
+#root {
+    text-align: center;
+    padding-top: 2em;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px;
+    background: white;
+    border: 2px solid rgb(51,51,51);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: rgb(220,220,220);
+}
+
+#profileOuter {
+    margin-top: 20px;
+}
